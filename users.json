@@ -1,0 +1,42 @@
+{
+
+    "id": "user1",
+    "username":"Angaa02",
+    "firstName":"John",
+    "lastName":"Angala",
+    "email":"ianangala11@gmail.com",
+    "password":"ianangala20",
+    "mobileNumber":"09292940450",
+    "isAdmin":"false",
+    "enrollments": [
+        {
+
+            "id":"enrollment1-user1",
+            "courseId": "course1",
+            "dateEnrolled": "01/15/2022",
+             "isPaid": "true"
+
+        },
+    ]
+},
+{
+    "id": "user2",
+    "username":"Angaa20",
+    "firstName":"Ian",
+    "lastName":"Tomb",
+    "email":"ianangala20@gmail.com",
+    "password":"ianangala02",
+    "mobileNumber":"09292940457",
+    "isAdmin":"false",
+    "enrollments": [
+        {
+
+            "id":"enrollment1-user2",
+            "courseId": "course2",
+            "dateEnrolled": "01/17/2022",
+             "isPaid": "true"
+         },
+     ]
+
+}
+
